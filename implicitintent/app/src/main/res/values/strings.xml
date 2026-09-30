@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">implicit intent</string>
+    <string name="enter_a_url">Enter a URL</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+</resources>
